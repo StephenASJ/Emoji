@@ -1,0 +1,44 @@
+.cont{
+	margin-top: 200px;
+margin-left: 500px;
+}
+.face{
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	border-radius: 50%;
+}
+.leye,.reye{
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	position: absolute;
+	border:1px solid black;
+	border-radius: 50%;
+}
+.leye{
+	margin-top: 70px;
+	margin-left: 30px;
+}
+.reye{
+	margin-top: 70px;
+	margin-left: 170px;
+}
+.eye-ball{
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	background-color: black;
+	margin-left: 30px;
+}
+.mouth{
+	height: 10px;
+	width: 40px;
+	border-radius: 20px;
+	background-color: black;
+	position: absolute;
+	margin-left: 130px;
+	margin-top: 230px;
+
+
+}
